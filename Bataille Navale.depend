@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1515099053 source:f:\downloads\bataille navale\main.c
+	"bataille navale.h"
+
+1515127824 source:f:\downloads\bataille navale\bataille navale.c
+	"bataille navale.h"
+
+1515161483 f:\downloads\bataille navale\bataille navale.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<dirent.h>
+
+1511860893 f:\downloads\bataille navale\bataille navale.c
+	"bataille navale.h"
+
+1515211840 source:f:\downloads\backup\bataille navale\main.c
+	"bataille navale.h"
+
+1515218607 f:\downloads\backup\bataille navale\bataille navale.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<dirent.h>
+
+1515255345 source:f:\downloads\backup\bataille navale\bataille navale.c
+	"bataille navale.h"
+
+1515255345 source:f:\downloads\bataille navale v2.0\bataille navale.c
+	"bataille navale.h"
+
+1515218607 f:\downloads\bataille navale v2.0\bataille navale.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<dirent.h>
+
+1515255520 source:f:\downloads\bataille navale v2.0\main.c
+	"bataille navale.h"
+
